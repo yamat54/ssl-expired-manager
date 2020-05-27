@@ -7,4 +7,7 @@
 
 ```bash
 $ sh ssl_expired.sh (domain name)
+
+Not Before: May 23 16:30:00 2020 GMT
+Not After : May 22 16:29:59 2021 GMT
 ```
